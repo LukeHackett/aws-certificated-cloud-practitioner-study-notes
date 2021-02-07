@@ -5,3 +5,6 @@ A collection of study notes based upon the [AWS Certificate Cloud Practitioner (
 - [Book Resources](https://awsccp.github.io/)
 - [Sybex Test Prep](www.wiley.com/go/sybextestprep)
 
+## Table of Contents
+
+* [Chapter 1 - The Cloud](./chapter-1)
