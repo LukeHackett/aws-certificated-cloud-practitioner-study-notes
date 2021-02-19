@@ -8,3 +8,4 @@ A collection of study notes based upon the [AWS Certificate Cloud Practitioner (
 ## Table of Contents
 
 * [Chapter 1 - The Cloud](./chapter-1)
+* [Chapter 2 - Understanding Your AWS Account](./chapter-2)
