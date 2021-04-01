@@ -13,3 +13,4 @@ A collection of study notes based upon the [AWS Certificate Cloud Practitioner (
 * [Chapter 4 - Understanding the AWS Environment](./chapter-4)
 * [Chapter 5 - Securing Your AWS Resources](./chapter-5)
 * [Chapter 6 - Working with Your AWS Resources](./chapter-6)
+* [Chapter 7 - The Core Compute Services](./chapter-7)
