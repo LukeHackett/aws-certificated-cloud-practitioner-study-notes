@@ -18,3 +18,4 @@ A collection of study notes based upon the [AWS Certificate Cloud Practitioner (
 * [Chapter 9 - The Core Database Services](./chapter-9)
 * [Chapter 10 - The Core Networking Services](./chapter-10)
 * [Chapter 11 - Automating Your AWS Workloads](./chapter-11)
+* [Chapter 12 - Common Use-Case Scenarios](./chapter-12)
